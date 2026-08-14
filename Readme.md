@@ -41,6 +41,5 @@ python career_expert_system.py
 👨‍💻 Author
 
 Sanskar Acharya
-BSc.CSIT Student | Python & Django Learner
 
 Built as a learning project to explore Artificial Intelligence and Expert Systems.
