@@ -532,7 +532,7 @@ class CareerExpertSystem:
 if __name__ == "__main__":
     root = tk.Tk()
 
-    app = CareerExpertSystem(root)
+    app = CareerExpertSystem()
 
     root.protocol(
         "WM_DELETE_WINDOW",
